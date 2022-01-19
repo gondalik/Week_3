@@ -7,6 +7,7 @@ package ArrayObject;
 /**
  *
  * @author kbgon
+ * 12233
  */
 public class Student {
     
