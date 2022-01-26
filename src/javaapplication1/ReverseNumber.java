@@ -16,6 +16,7 @@ public class ReverseNumber {
         String x = input.next();
         
         System.out.println("version 2.0");
+        System.out.println("version 3.0");
         
         char[] c = new char[x.length()];
         
