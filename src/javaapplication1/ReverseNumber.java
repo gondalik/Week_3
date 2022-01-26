@@ -15,6 +15,8 @@ public class ReverseNumber {
         System.out.println("Enter any word");
         String x = input.next();
         
+        System.out.println("version 2.0");
+        
         char[] c = new char[x.length()];
         
         for(int i=c.length-1;i>=0;i--){
